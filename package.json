@@ -10,6 +10,7 @@
     "react-redux": "^9.2.0",
     "react-scripts": "^5.0.1",
     "sass": "^1.83.0",
+    "sass-loader": "^16.0.4",
     "un": "0.0.0"
   },
   "scripts": {
@@ -36,6 +37,6 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.25.9",
-    "eslint-config-react-app": "^4.0.1"
+    "eslint-config-react-app": "^7.0.1"
   }
 }
